@@ -1,9 +1,9 @@
 {
     "name": "KILIMANJARO MD session",
     "description": "KILIMANJARO-MD WA bot, Created by Venocyber King jux to simplify your digital lives",
-    "logo": "https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg",
+    "logo": "https://telegra.ph/file/38e53728b02ba28eaf895.jpg",
     "repository": "https://github.com/kingjux/kilimanjaro",
-    "keywords": ["VenocyberMd"],
+    "keywords": ["KilimanjaroMd"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
